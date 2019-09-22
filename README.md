@@ -1,2 +1,2 @@
 # stat-209-git-mini-lab
-USE_THIS_ONE
+Due for class on 9_24_19
